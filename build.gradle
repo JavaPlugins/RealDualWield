@@ -29,7 +29,6 @@ dependencies {
     compileOnly 'org.spigotmc:spigot-api:1.21.4-R0.1-SNAPSHOT'
     compileOnly 'dev.lone:api-itemsadder:4.0.2-beta-release-11'
     compileOnly 'com.comphenix.protocol:ProtocolLib:4.8.0'
-    compileOnly 'beer.devs:FastNbt-jar:1.4.2'
 }
 
 def targetJavaVersion = 21
