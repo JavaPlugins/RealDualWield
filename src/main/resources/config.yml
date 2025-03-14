@@ -1,0 +1,58 @@
+show-cooldown-bar: true
+can-attack-mob-in-air: false
+deny-longpress-rightclick: true
+break-plants: true
+break_plants_bare_hand: true
+dual_wield_enabled:
+  materials:
+    - BONE
+    - STICK
+    - BRICK
+    - WOODEN_SWORD
+    - WOODEN_SPADE
+    - WOODEN_SHOVEL
+    - WOODEN_AXE
+    - WOODEN_PICKAXE
+    - WOODEN_HOE
+    - WOOD_SWORD
+    - WOOD_SPADE
+    - WOOD_SHOVEL
+    - WOOD_AXE
+    - WOOD_PICKAXE
+    - WOOD_HOE
+    - STONE_SWORD
+    - STONE_SPADE
+    - STONE_SHOVEL
+    - STONE_AXE
+    - STONE_PICKAXE
+    - STONE_HOE
+    - GOLDEN_SWORD
+    - GOLDEN_SPADE
+    - GOLDEN_SHOVEL
+    - GOLDEN_AXE
+    - GOLDEN_PICKAXE
+    - GOLDEN_HOE
+    - GOLD_SWORD
+    - GOLD_SPADE
+    - GOLD_SHOVEL
+    - GOLD_AXE
+    - GOLD_PICKAXE
+    - GOLD_HOE
+    - IRON_SWORD
+    - IRON_SPADE
+    - IRON_SHOVEL
+    - IRON_AXE
+    - IRON_PICKAXE
+    - IRON_HOE
+    - DIAMOND_SWORD
+    - DIAMOND_SPADE
+    - DIAMOND_SHOVEL
+    - DIAMOND_AXE
+    - DIAMOND_PICKAXE
+    - DIAMOND_HOE
+    - NETHERITE_SWORD
+    - NETHERITE_SPADE
+    - NETHERITE_SHOVEL
+    - NETHERITE_AXE
+    - NETHERITE_PICKAXE
+    - NETHERITE_HOE
